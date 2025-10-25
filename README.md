@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Themiya Kaluarachchi</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themiya-kaluarachchi&label=Profile%20views&color=b20606&style=plastic" alt="themiya-kaluarachchi" /> </p>
 
-- 🌱 I’m currently learning **C#,php,react**
-
-- 👯 I’m looking to collaborate on **front-end development projects.**
-
-- 💬 Ask me about **js**
+- 🌱 I’m currently learning **spring,react**
 
 - 📫 How to reach me **themiyakaluarachchi@gmail.com**
 
