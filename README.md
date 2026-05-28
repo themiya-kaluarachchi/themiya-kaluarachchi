@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themiya-kaluarachchi&label=Profile%20views&color=b20606&style=plastic" alt="themiya-kaluarachchi" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **themiyakaluarachchi@gmail.com**
 
